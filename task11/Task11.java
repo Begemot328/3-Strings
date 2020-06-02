@@ -12,7 +12,9 @@ public class Task11 {
 	
 	public static void main(String[] args) {
 		String[] vars = new String[20];
+		
 		// исходные данные
+		
 		vars[0] = "camelCase";
 		vars[1] = "snakeCase";
 		vars[2] = "bullCase";
